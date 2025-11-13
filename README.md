@@ -25,8 +25,6 @@ potential if marketing and distribution strategies are strengthened.
 10.  Business Readiness – The dashboard enables proactive 
 monitoring, making it easier to track trends, detect anomalies early, 
 and guide decision-making. 
-Dashboards :**
-
 
 Key Insights :** 
 1.  Sales Trend – Overall sales follow an upward trajectory with 
@@ -43,7 +41,8 @@ creating opportunities for improvement.
 5.  Discount vs. Revenue – Discounts strongly boost sales volumes 
 but reduce overall profitability if applied excessively. 
 6.  Anomalies – Sudden dips in sales in specific months suggest 
-operational or supply chain issues that require further analysis. 
+operational or supply chain issues that require further analysis.
+
 Business Recommendations :** 
 1.  Leverage Seasonality – Focus marketing and promotional 
 campaigns during peak months to maximize revenue and customer 
@@ -64,7 +63,8 @@ digital marketing and cross-selling to reduce revenue concentration
 risk. 
 8.  Data-Driven Monitoring – Use the dashboard as an ongoing 
 monitoring tool to track KPIs, detect anomalies early, and support 
-proactive decisions. 
+proactive decisions.
+
 Final Story with the Dashboard : ** 
 The E-Commerce Sales Analysis (2020–2025) dashboard clearly 
 shows that sales have grown steadily over the five-year period, with 
@@ -73,16 +73,19 @@ value customers contribute most of the revenue, which is a strength
 but also a risk due to over-dependence. Product insights reveal that 
 while some categories are strong performers, others remain 
 underutilized and represent growth opportunities. 
+
 The dashboard also highlights sudden dips in sales during certain 
 months, suggesting possible supply chain or operational issues. 
 Discounts were found to boost sales but can reduce profitability if 
 used too aggressively. 
+
 Overall, the story is that the business is growing but concentrated. To 
 achieve sustainable growth, the company should focus on peak-season 
 promotions, diversify into weaker markets and products, retain key 
 customers, and balance discount strategies. The dashboard serves as 
 both a performance tracker and a decision-making tool for future 
 planning.
+
 # Future Enhancement :** 
 **1.Predictive Sales Forecasting  –** Use historical sales trends to forecast monthly and 
 seasonal demand, helping inventory and marketing planning. 
@@ -94,6 +97,7 @@ recommend cross-selling or bundling strategies to increase revenue.
 potential for growth based on historical sales patterns. 
 **5.Automated KPI & Alert System_**  Set up automated dashboards that alert for sudden 
 drops in sales, abnormal discount impacts, or inventory issues. 
+
 # Conclusion :**  
 The E-Commerce Sales Analysis (2020–2025) highlights steady growth in sales, clear seasonal 
 patterns, and concentrated revenue from top countries, high-value customers, and key product 
