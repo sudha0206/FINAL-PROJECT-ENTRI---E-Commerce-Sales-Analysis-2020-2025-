@@ -1,6 +1,7 @@
 **E-Commerce Sales Analysis (2020–2025) **         
 Data Analysis and Visualization using Python and Power BI 
 (Final Project Report - The Final Story with the Dashboard) 
+
 Executive Summary of Findings : ** 
 1.  Overall Growth – Sales show a consistent upward trend over the 
 analyzed period, reflecting healthy business performance.  
@@ -66,6 +67,7 @@ monitoring tool to track KPIs, detect anomalies early, and support
 proactive decisions.
 
 Final Story with the Dashboard : ** 
+
 The E-Commerce Sales Analysis (2020–2025) dashboard clearly 
 shows that sales have grown steadily over the five-year period, with 
 strong seasonal peaks at predictable times. A few countries and high
@@ -89,20 +91,26 @@ planning.
 # Future Enhancement :** 
 **1.Predictive Sales Forecasting  –** Use historical sales trends to forecast monthly and 
 seasonal demand, helping inventory and marketing planning. 
+
 **2.Customer Segmentation & Loyalty Analysis –** Identify high-value and at-risk 
 customers to target personalized promotions and retention strategies. 
+
 **3.Product Performance Optimization –** Track underperforming products and 
 recommend cross-selling or bundling strategies to increase revenue. 
+
 **4.Geographic Expansion Insights –** Analyze untapped countries or regions with 
 potential for growth based on historical sales patterns. 
+
 **5.Automated KPI & Alert System_**  Set up automated dashboards that alert for sudden 
 drops in sales, abnormal discount impacts, or inventory issues. 
 
 # Conclusion :**  
+
 The E-Commerce Sales Analysis (2020–2025) highlights steady growth in sales, clear seasonal 
 patterns, and concentrated revenue from top countries, high-value customers, and key product 
 categories. The analysis also identified anomalies and correlations, such as the impact of 
 discounts on sales volume and profitability. 
+
 Overall, the dashboard provides a comprehensive view of business performance, enabling 
 informed decision-making. By leveraging insights on customer behavior, product performance, 
 and market trends, the business can optimize strategies, address operational gaps, and plan for 
