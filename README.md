@@ -1,5 +1,5 @@
 
-E-Commerce Sales Analysis (2020–2025)
+**E-Commerce Sales Analysis (2020–2025)**
 
 This project presents an end-to-end **E-Commerce Sales Analysis** using Python, covering the years **2020 to 2025**.
 It includes data cleaning, preprocessing, exploratory data analysis (EDA), visualization, and insights generation to understand sales patterns, customer behavior, product performance, and operational efficiency.
@@ -45,7 +45,7 @@ This dataset captures online and in-store retail transactions, including orders,
 
  **Data Cleaning & Preprocessing**
 
-Key steps:
+**Key steps:**
 
 1. Handling missing values
 
@@ -55,9 +55,9 @@ Key steps:
 
 4. Standardizing text values
 
-5. Treating outliers using **percentile capping**
+5. Treating outliers using percentile capping
 
-6. Creating new features:
+6.** Creating new features:**
 
 * `TotalSales`
 * `TotalAmount`
@@ -68,7 +68,7 @@ Key steps:
 
 **Exploratory Data Analysis (EDA)**
 
-The analysis includes:
+**The analysis includes:**
 
 * Year-wise & Month-wise Sales Trends
 * Country-wise Revenue
@@ -119,7 +119,7 @@ This project provides a complete understanding of e-commerce sales operations:
 
 ---
 
-* Final Conclusion : *
+* **Final Conclusion :** *
 
 The E-Commerce Sales Analysis (2020–2025) project provides a full, actionable view of business performance over 5 years. Through detailed data cleaning, transformation, visualization, and analysis, the project uncovers:
 
