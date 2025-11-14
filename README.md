@@ -39,7 +39,7 @@ This dataset captures online and in-store retail transactions, including orders,
 * **Python**
 * **Pandas, NumPy**
 * **Matplotlib, Seaborn**
-* **Jupyter Notebook / Google Colab**
+
 
 ---
 
@@ -47,12 +47,17 @@ This dataset captures online and in-store retail transactions, including orders,
 
 Key steps:
 
-✔ Handling missing values
-✔ Removing negative quantities & prices
-✔ Fixing duplicate entries
-✔ Standardizing text values
-✔ Treating outliers using **percentile capping**
-✔ Creating new features:
+1. Handling missing values
+
+2. Removing negative quantities & prices
+
+3. Fixing duplicate entries
+
+4. Standardizing text values
+
+5. Treating outliers using **percentile capping**
+
+6. Creating new features:
 
 * `TotalSales`
 * `TotalAmount`
