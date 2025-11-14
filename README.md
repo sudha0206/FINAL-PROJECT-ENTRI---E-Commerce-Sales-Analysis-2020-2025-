@@ -32,16 +32,7 @@ This dataset captures online and in-store retail transactions, including orders,
 * **Source:** Kaggle
 * **Timeline:** 2020–2025
 * **Dataset Types:** Product info, customer info, payment, pricing, discount, shipping, returns
-
-**Raw Dataset**
-
-[Click to open](https://drive.google.com/file/d/1bSRsDKHxtGlUAH2So7SFbHW4utjPFx9/view?usp=drive_link)
-
-**Cleaned Dataset**
-
-[Click to open](https://drive.google.com/file/d/1nNZK1XqNBZdxGHR9uZoqetmyIS4Qx5YQ/view?usp=drive_link)
-
----
+  
 
 **Technologies Used**
 
