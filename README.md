@@ -106,7 +106,7 @@ This project provides a complete understanding of e-commerce sales operations:
 
 * `Raw Data.csv`
 * `Cleaned_Ecommerce_Data.csv`
-* `Jupyter Notebook` (all analysis steps)
+* `Colab Notebook` (all analysis steps)
 * Project Report (PDF)
 
 ---
